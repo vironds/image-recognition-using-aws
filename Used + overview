@@ -1,0 +1,19 @@
+Services used:
+
+Amazon S3: To store the images that we want analyzed
+
+Amazon Rekognition: To analyze images and generate image tags
+
+AWS CLI: to interact with AWS services through command line interface(CLI).
+
+
+Steps we need to perform:
+
+- Create an Amazon S3 Bucket
+- Upload images to the S3 Bucket
+- Install and configure the AWS Command line interface (CLI)
+- Import libraries
+- Add detect_labels function
+- Add main function
+- Run your python file
+
